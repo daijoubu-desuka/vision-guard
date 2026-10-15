@@ -1,0 +1,4 @@
+# Only needed to rebuild the report / sample files (not to run the app)
+-r requirements.txt
+reportlab>=4.0
+scikit-image>=0.21
